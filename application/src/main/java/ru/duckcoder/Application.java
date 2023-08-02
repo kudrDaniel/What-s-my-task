@@ -1,6 +1,6 @@
 package ru.duckcoder;
 
-public class Main {
+public class Application {
     //Entry point
     public static int main(String[] args) {
         Integer exitCode;
