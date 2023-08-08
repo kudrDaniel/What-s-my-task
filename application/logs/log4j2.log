@@ -1,0 +1,7 @@
+2023-08-03 13:28:05,789 INFO r.d.LoggerController [main] Application started
+2023-08-03 13:28:39,448 INFO r.d.LoggerController [main] Application started
+2023-08-03 13:33:16,861 INFO r.d.LoggerController [Test worker] Test
+2023-08-03 17:49:53,709 ERROR r.d.LoggerController [main] java.nio.file.NoSuchFileException: E:\Learning\Repos\Java\Personal\What-s-my-task\application\settings.json
+2023-08-03 17:49:53,719 ERROR r.d.LoggerController [main] java.io.IOException: Stream closed
+2023-08-03 17:50:41,188 ERROR r.d.LoggerController [main] java.nio.file.NoSuchFileException: E:\Learning\Repos\Java\Personal\What-s-my-task\application\settings.json
+2023-08-03 17:50:41,188 ERROR r.d.LoggerController [main] java.io.IOException: Stream closed

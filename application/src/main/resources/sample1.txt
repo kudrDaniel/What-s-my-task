@@ -1,0 +1,4 @@
+Hello world!
+
+This text is readed byte by byte
+    and this file has no limit by size :)
